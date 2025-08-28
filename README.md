@@ -32,3 +32,4 @@ Web3j (org.web3j:core)
 Security Note:
 
 This project is for educational purposes only. Never expose private keys in production applications.
+PLEASE IGNORE THE RED WARNING ON THE TERMINAL: Not a critical error — it’s a warning from SLF4J, the logging framework that BitcoinJ (and some other libraries) uses internally.
